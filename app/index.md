@@ -10,10 +10,6 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [505](song/feb/505.md)
 
-### [Jhon Lennon](writer/john_lennon.md)
-
-[Stand By Me](song/feb/stand_by_me.md)
-
 ### [Queen](writer/queen.md)
 
 [We Will Rock You](./song/feb/we_will_rock_you.md)
