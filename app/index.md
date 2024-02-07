@@ -6,18 +6,18 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ## Picks of the Month
 
-### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
+### [Arctic Monkeys](/writer/arctic_monkeys.md)
 
 [505](song/feb/505.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
+### [Jhon Lennon](writer/john_lennon.md)
 
 [Stand By Me](song/feb/stand_by_me.md)
 
-### [Queen](writer/queen.md) | queen@onlyrics.magazine
+### [Queen](writer/queen.md)
 
 [We Will Rock You](./song/feb/we_will_rock_you.md)
 
-### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
+### [The Killers](writer/the_killers)
 
 [Read My Mind](song/feb/read_my_mind.md)
